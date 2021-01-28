@@ -1,3 +1,4 @@
 # Spreadsheet
-A mix of small projects including Tic Tac Toe, Mad Libs Game
-, Mystery Numbers, Secret Number, etc.
+In this C# project, I build a spreadsheet program like MS Excel
+with some basic features such as save/load file, cells reference, basic math
+operations.
